@@ -1,4 +1,4 @@
-Step-by-step to deploy the docker container on GCP:
+## Step-by-step to deploy the docker container on GCP:
 1. Create new project in GCP and activate Cloud Run API and Cloud Build API
 2. Initialize Google Cloud CLI (gcloud init). To do this, you must first install gcloud CLI by following the instruction on the [link](https://cloud.google.com/sdk/docs/install)
 3. Use command `gcloud run deploy`
